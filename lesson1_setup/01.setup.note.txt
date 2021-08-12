@@ -1,0 +1,17 @@
+1. visaul studio portable
+2. git portable -> add to path 
+3. node zip (portable) -> add to path 
+4. visual studio extension package 
+-> react intellisence : snippet
+-> ESLint : code style
+-> prettier : formatter code auto arrange
+
+-> visual studio code exit and start again
+
+5. new github project
+6. add git repository url to source control
+7. make hello node project frame 
+-> open terminal: ctrl `
+> npm create react-app hello-react
+> cd hello-react 
+> npm start 
